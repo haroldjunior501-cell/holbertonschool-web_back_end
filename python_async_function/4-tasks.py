@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module providing a coroutine using asyncio Tasks for concurrent execution."""
+"""Module with task_wait_n coroutine using asyncio Tasks concurrently."""
 import asyncio
 from typing import List
 
